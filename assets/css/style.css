@@ -9323,6 +9323,18 @@ header.in-box {
   .about-me-spacing{
     margin: 5% 5%;
   }
+  .swiper-container {
+    flex-direction: column;
+}
+
+.swiper-wrapper {
+    flex-wrap: wrap; 
+}
+
+.swiper-slide {
+    width: 100%; 
+    flex: 0 0 auto; 
+}
   .md-mb10 {
     margin-bottom: 10px;
   }
