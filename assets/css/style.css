@@ -271,6 +271,7 @@ figure {
 
 .main-colorbg3 {
   background-color: #55e6a5;
+  
 }
 
 .main-color4 {
@@ -451,7 +452,7 @@ img {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #1ed760;
+  background: #55e6a5;
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
@@ -882,8 +883,9 @@ img {
 /* Extra
 -----------------------------------------------------------------*/
 .text-new-styling {
-  color:#1ed760;
+  color:#55e6a5;
 }
+
 
 
 
@@ -5579,7 +5581,7 @@ body.loaded {
 }
 
 .approach-carso .swiper-slide:hover {
-  border-color: #f08f74;
+  border-color: #55e6a5;
 }
 
 .approach-carso .item .stroke {
