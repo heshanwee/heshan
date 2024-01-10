@@ -924,6 +924,12 @@ img {
   text-align: center;
 }
 
+.d-slideup .sideup-text2 {
+  overflow: hidden;
+  display: block;
+}
+
+
 .d-slideup .sideup-text:first-of-type .up-text {
   -webkit-transition-delay: .1s;
   -o-transition-delay: .1s;
