@@ -921,6 +921,7 @@ img {
 .d-slideup .sideup-text {
   overflow: hidden;
   display: block;
+  text-align: center;
 }
 
 .d-slideup .sideup-text:first-of-type .up-text {
@@ -9335,6 +9336,8 @@ header.in-box {
     width: 100%; 
     flex: 0 0 auto; 
 }
+
+
   .md-mb10 {
     margin-bottom: 10px;
   }
@@ -9681,6 +9684,7 @@ header.in-box {
   }
   .d-slideup .sideup-text {
     display: inline-block;
+   
   }
   .testim-crv2 .img-qoute {
     display: none;
